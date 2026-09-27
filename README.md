@@ -3,7 +3,7 @@
 Proyecto desarrollado en Python (Google Colab) en que que simulamos diferentes rutas inteligentes mediante lógica condicional y una base de conocimiento basada en clima, tráfico y medios de transporte.
 
 ## 🛠️ Tecnologías Utilizadas
-* **Python 3**
+* **Python**
 * **Google Colab** (Entorno de ejecución en la nube)
 * **Git & GitHub** (Control de versiones)
 
